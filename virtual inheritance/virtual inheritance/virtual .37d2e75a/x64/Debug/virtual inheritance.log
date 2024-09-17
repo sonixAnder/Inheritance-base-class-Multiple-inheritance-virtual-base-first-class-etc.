@@ -1,0 +1,3 @@
+﻿  virtual inheritance.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\virtual inheritance\virtual inheritance\virtual inheritance.cpp(97,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  virtual inheritance.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\virtual inheritance\virtual inheritance\x64\Debug\virtual inheritance.exe
